@@ -2,7 +2,7 @@
 
 Let's create a quick time-appropriate greeter application
 
-## Instructions
+## Instructikons
 
 Edit your code in `app/application.rb`.
 
